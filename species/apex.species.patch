@@ -1,6 +1,6 @@
 [
-{"op":"add","path":"/genders/0/shirt","value":"apextier1chest"},
-{"op":"add","path":"/genders/1/shirt","value":"apextier1chest"},
-{"op":"add","path":"/genders/0/pants","value":"apextier1pants"},
-{"op":"add","path":"/genders/1/pants","value":"apextier1pants"}
+{"op":"add","path":"/genders/0/shirt/-","value":"apextier1chest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"apextier1chest"},
+{"op":"add","path":"/genders/0/pants/-","value":"apextier1pants"},
+{"op":"add","path":"/genders/1/pants/-","value":"apextier1pants"}
 ]
