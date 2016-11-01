@@ -1,16 +1,15 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "name" : "RPGSIM.IHC",
-  "version" : "1.0",
-  "friendlyName" : "RPG Start! (simple addition edition)",
-  "link" : "community.playstarbound.com/threads/124193/",
-  "description" : "[h1]Lets go kill cactaur![/h1]
+  "description" : "^#5aa9d6;Lets go kill cactaur!^reset;
+
 This version of the mod just adds the tier 1 armor of each race to its starting outfit option. Change made so it's far more compatible with other mods. Works for Vanilla races only.
 
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-rpgsimple]git.[/url]
-[url=http://steamcommunity.com/workshop/filedetails/discussion/758570116/343785574524449496/]Request thread for this mod.[/url]",
-  "requires" : [],
+For more, click the MEGATHREAD link from the steam page.",
+  "friendlyName" : "RPG Start! (simple addition edition)",
   "includes" : [],
-  "steamContentId" : "763291224"
+  "link" : "steam://url/CommunityFilePage/763291224",
+  "name" : "RPGSIM.IHC",
+  "requires" : [],
+  "steamContentId" : "763291224", 
+  "version" : "1.0a"
 }
